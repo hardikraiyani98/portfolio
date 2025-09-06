@@ -22,6 +22,7 @@ const Navbar = () => {
       <a href="cv.html">CV</a>
       <a href="login.html">
         <i className="fas fa-user" /> &nbsp;&nbsp;Login
+      
       </a>
     </nav>
   </header>
